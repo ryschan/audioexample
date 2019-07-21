@@ -1,0 +1,6 @@
+framework module Pods_AVBasicPlayback {
+  umbrella header "Pods-AVBasicPlayback-umbrella.h"
+
+  export *
+  module * { export * }
+}
